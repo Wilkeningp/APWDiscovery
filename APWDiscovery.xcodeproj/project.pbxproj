@@ -1,0 +1,670 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8D4385411D9121A100410A75 /* Botanist5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385401D9121A100410A75 /* Botanist5ViewController.swift */; };
+		8D4385431D9121DE00410A75 /* Botanist6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385421D9121DE00410A75 /* Botanist6ViewController.swift */; };
+		8D4385451D9121F200410A75 /* Botanist7ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385441D9121F200410A75 /* Botanist7ViewController.swift */; };
+		8D43854B1DB4341C00410A75 /* Hydrologist1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D43854A1DB4341C00410A75 /* Hydrologist1ViewController.swift */; };
+		8D43854D1DB4343200410A75 /* Hydrologist2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D43854C1DB4343200410A75 /* Hydrologist2ViewController.swift */; };
+		8D43854F1DB4344400410A75 /* Hydrologist3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D43854E1DB4344400410A75 /* Hydrologist3ViewController.swift */; };
+		8D4385511DB4344E00410A75 /* Hydrologist4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385501DB4344E00410A75 /* Hydrologist4ViewController.swift */; };
+		8D4385531DB4345A00410A75 /* Hydrologist5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385521DB4345A00410A75 /* Hydrologist5ViewController.swift */; };
+		8D4385551DB4346B00410A75 /* Hydrologist6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385541DB4346B00410A75 /* Hydrologist6ViewController.swift */; };
+		8D4385571DB4347700410A75 /* Hydrologist7ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385561DB4347700410A75 /* Hydrologist7ViewController.swift */; };
+		8D4385591DB434BE00410A75 /* Ornithologist1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385581DB434BE00410A75 /* Ornithologist1ViewController.swift */; };
+		8D43855B1DB434D200410A75 /* Ornithologist2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D43855A1DB434D200410A75 /* Ornithologist2ViewController.swift */; };
+		8D43855D1DB434E800410A75 /* Ornithologist3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D43855C1DB434E800410A75 /* Ornithologist3ViewController.swift */; };
+		8D43855F1DB434F200410A75 /* Ornithologist4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D43855E1DB434F200410A75 /* Ornithologist4ViewController.swift */; };
+		8D4385611DB434FE00410A75 /* Ornithologist5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385601DB434FE00410A75 /* Ornithologist5ViewController.swift */; };
+		8D4385631DB4350A00410A75 /* Ornithologist6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385621DB4350A00410A75 /* Ornithologist6ViewController.swift */; };
+		8D4385651DB4351700410A75 /* Ornithologist7ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385641DB4351700410A75 /* Ornithologist7ViewController.swift */; };
+		8D4385671DB453E100410A75 /* Hydrologist8ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385661DB453E100410A75 /* Hydrologist8ViewController.swift */; };
+		8D4385691DB47FC300410A75 /* Hydrologist9ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D4385681DB47FC300410A75 /* Hydrologist9ViewController.swift */; };
+		8DAAF1A81E19CEF0004CE957 /* Biologist8ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAAF1A71E19CEF0004CE957 /* Biologist8ViewController.swift */; };
+		8DAAF1AA1E2ED99D004CE957 /* Botanist8ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAAF1A91E2ED99D004CE957 /* Botanist8ViewController.swift */; };
+		8DAAF1AC1E2EE12A004CE957 /* Hydrologist10ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAAF1AB1E2EE12A004CE957 /* Hydrologist10ViewController.swift */; };
+		8DAAF1AE1E2EE510004CE957 /* Ornithologist9ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAAF1AD1E2EE510004CE957 /* Ornithologist9ViewController.swift */; };
+		8DAAF1B01E2EF6C0004CE957 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DAAF1AF1E2EF6C0004CE957 /* Images.xcassets */; };
+		8DD31FCC1D8F10D70023F3B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FCB1D8F10D70023F3B4 /* AppDelegate.swift */; };
+		8DD31FCE1D8F10D70023F3B4 /* StartPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FCD1D8F10D70023F3B4 /* StartPageViewController.swift */; };
+		8DD31FD11D8F10D70023F3B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DD31FCF1D8F10D70023F3B4 /* Main.storyboard */; };
+		8DD31FD31D8F10D70023F3B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DD31FD21D8F10D70023F3B4 /* Assets.xcassets */; };
+		8DD31FD61D8F10D70023F3B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DD31FD41D8F10D70023F3B4 /* LaunchScreen.storyboard */; };
+		8DD31FE11D8F10D80023F3B4 /* APWDiscoveryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FE01D8F10D80023F3B4 /* APWDiscoveryTests.swift */; };
+		8DD31FEC1D8F10D80023F3B4 /* APWDiscoveryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FEB1D8F10D80023F3B4 /* APWDiscoveryUITests.swift */; };
+		8DD31FFA1D8F27CC0023F3B4 /* Biologist1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FF91D8F27CC0023F3B4 /* Biologist1ViewController.swift */; };
+		8DD31FFC1D8F2A760023F3B4 /* Biologist2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FFB1D8F2A760023F3B4 /* Biologist2ViewController.swift */; };
+		8DD31FFE1D8F2BFE0023F3B4 /* Biologist3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FFD1D8F2BFE0023F3B4 /* Biologist3ViewController.swift */; };
+		8DD320001D8F2C210023F3B4 /* Biologist4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD31FFF1D8F2C210023F3B4 /* Biologist4ViewController.swift */; };
+		8DD320021D8F75260023F3B4 /* Biologist5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD320011D8F75260023F3B4 /* Biologist5ViewController.swift */; };
+		8DD320041D8F7C500023F3B4 /* Biologist6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD320031D8F7C500023F3B4 /* Biologist6ViewController.swift */; };
+		8DD320061D8F7C690023F3B4 /* Biologist7ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD320051D8F7C690023F3B4 /* Biologist7ViewController.swift */; };
+		8DD3200C1D90F0D40023F3B4 /* Botanist1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD3200B1D90F0D40023F3B4 /* Botanist1ViewController.swift */; };
+		8DD3200E1D90F10E0023F3B4 /* Botanist2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD3200D1D90F10E0023F3B4 /* Botanist2ViewController.swift */; };
+		8DD320101D90F13F0023F3B4 /* Botanist3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD3200F1D90F13F0023F3B4 /* Botanist3ViewController.swift */; };
+		8DD320121D90F1590023F3B4 /* Botanist4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD320111D90F1590023F3B4 /* Botanist4ViewController.swift */; };
+		8DD74BBA1DB4AB190045336B /* Ornithologist8ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD74BB91DB4AB190045336B /* Ornithologist8ViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8DD31FDD1D8F10D80023F3B4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8DD31FC01D8F10D30023F3B4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DD31FC71D8F10D30023F3B4;
+			remoteInfo = APWDiscovery;
+		};
+		8DD31FE81D8F10D80023F3B4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8DD31FC01D8F10D30023F3B4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DD31FC71D8F10D30023F3B4;
+			remoteInfo = APWDiscovery;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8D4385401D9121A100410A75 /* Botanist5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist5ViewController.swift; sourceTree = "<group>"; };
+		8D4385421D9121DE00410A75 /* Botanist6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist6ViewController.swift; sourceTree = "<group>"; };
+		8D4385441D9121F200410A75 /* Botanist7ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist7ViewController.swift; sourceTree = "<group>"; };
+		8D43854A1DB4341C00410A75 /* Hydrologist1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist1ViewController.swift; sourceTree = "<group>"; };
+		8D43854C1DB4343200410A75 /* Hydrologist2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist2ViewController.swift; sourceTree = "<group>"; };
+		8D43854E1DB4344400410A75 /* Hydrologist3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist3ViewController.swift; sourceTree = "<group>"; };
+		8D4385501DB4344E00410A75 /* Hydrologist4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist4ViewController.swift; sourceTree = "<group>"; };
+		8D4385521DB4345A00410A75 /* Hydrologist5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist5ViewController.swift; sourceTree = "<group>"; };
+		8D4385541DB4346B00410A75 /* Hydrologist6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist6ViewController.swift; sourceTree = "<group>"; };
+		8D4385561DB4347700410A75 /* Hydrologist7ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist7ViewController.swift; sourceTree = "<group>"; };
+		8D4385581DB434BE00410A75 /* Ornithologist1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist1ViewController.swift; sourceTree = "<group>"; };
+		8D43855A1DB434D200410A75 /* Ornithologist2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist2ViewController.swift; sourceTree = "<group>"; };
+		8D43855C1DB434E800410A75 /* Ornithologist3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist3ViewController.swift; sourceTree = "<group>"; };
+		8D43855E1DB434F200410A75 /* Ornithologist4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist4ViewController.swift; sourceTree = "<group>"; };
+		8D4385601DB434FE00410A75 /* Ornithologist5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist5ViewController.swift; sourceTree = "<group>"; };
+		8D4385621DB4350A00410A75 /* Ornithologist6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist6ViewController.swift; sourceTree = "<group>"; };
+		8D4385641DB4351700410A75 /* Ornithologist7ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist7ViewController.swift; sourceTree = "<group>"; };
+		8D4385661DB453E100410A75 /* Hydrologist8ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist8ViewController.swift; sourceTree = "<group>"; };
+		8D4385681DB47FC300410A75 /* Hydrologist9ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist9ViewController.swift; sourceTree = "<group>"; };
+		8DAAF1A71E19CEF0004CE957 /* Biologist8ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist8ViewController.swift; sourceTree = "<group>"; };
+		8DAAF1A91E2ED99D004CE957 /* Botanist8ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist8ViewController.swift; sourceTree = "<group>"; };
+		8DAAF1AB1E2EE12A004CE957 /* Hydrologist10ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hydrologist10ViewController.swift; sourceTree = "<group>"; };
+		8DAAF1AD1E2EE510004CE957 /* Ornithologist9ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist9ViewController.swift; sourceTree = "<group>"; };
+		8DAAF1AF1E2EF6C0004CE957 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		8DD31FC81D8F10D30023F3B4 /* APWDiscovery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APWDiscovery.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DD31FCB1D8F10D70023F3B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8DD31FCD1D8F10D70023F3B4 /* StartPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPageViewController.swift; sourceTree = "<group>"; };
+		8DD31FD01D8F10D70023F3B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8DD31FD21D8F10D70023F3B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8DD31FD51D8F10D70023F3B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8DD31FD71D8F10D70023F3B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DD31FDC1D8F10D80023F3B4 /* APWDiscoveryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = APWDiscoveryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DD31FE01D8F10D80023F3B4 /* APWDiscoveryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APWDiscoveryTests.swift; sourceTree = "<group>"; };
+		8DD31FE21D8F10D80023F3B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DD31FE71D8F10D80023F3B4 /* APWDiscoveryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = APWDiscoveryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DD31FEB1D8F10D80023F3B4 /* APWDiscoveryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APWDiscoveryUITests.swift; sourceTree = "<group>"; };
+		8DD31FED1D8F10D80023F3B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DD31FF91D8F27CC0023F3B4 /* Biologist1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist1ViewController.swift; sourceTree = "<group>"; };
+		8DD31FFB1D8F2A760023F3B4 /* Biologist2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist2ViewController.swift; sourceTree = "<group>"; };
+		8DD31FFD1D8F2BFE0023F3B4 /* Biologist3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist3ViewController.swift; sourceTree = "<group>"; };
+		8DD31FFF1D8F2C210023F3B4 /* Biologist4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist4ViewController.swift; sourceTree = "<group>"; };
+		8DD320011D8F75260023F3B4 /* Biologist5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist5ViewController.swift; sourceTree = "<group>"; };
+		8DD320031D8F7C500023F3B4 /* Biologist6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist6ViewController.swift; sourceTree = "<group>"; };
+		8DD320051D8F7C690023F3B4 /* Biologist7ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Biologist7ViewController.swift; sourceTree = "<group>"; };
+		8DD3200B1D90F0D40023F3B4 /* Botanist1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist1ViewController.swift; sourceTree = "<group>"; };
+		8DD3200D1D90F10E0023F3B4 /* Botanist2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist2ViewController.swift; sourceTree = "<group>"; };
+		8DD3200F1D90F13F0023F3B4 /* Botanist3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist3ViewController.swift; sourceTree = "<group>"; };
+		8DD320111D90F1590023F3B4 /* Botanist4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Botanist4ViewController.swift; sourceTree = "<group>"; };
+		8DD74BB91DB4AB190045336B /* Ornithologist8ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ornithologist8ViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8DD31FC51D8F10D30023F3B4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD31FD91D8F10D80023F3B4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD31FE41D8F10D80023F3B4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8DD31FBF1D8F10D30023F3B4 = {
+			isa = PBXGroup;
+			children = (
+				8DD31FCA1D8F10D30023F3B4 /* APWDiscovery */,
+				8DD31FDF1D8F10D80023F3B4 /* APWDiscoveryTests */,
+				8DD31FEA1D8F10D80023F3B4 /* APWDiscoveryUITests */,
+				8DD31FC91D8F10D30023F3B4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8DD31FC91D8F10D30023F3B4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD31FC81D8F10D30023F3B4 /* APWDiscovery.app */,
+				8DD31FDC1D8F10D80023F3B4 /* APWDiscoveryTests.xctest */,
+				8DD31FE71D8F10D80023F3B4 /* APWDiscoveryUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8DD31FCA1D8F10D30023F3B4 /* APWDiscovery */ = {
+			isa = PBXGroup;
+			children = (
+				8DD31FCB1D8F10D70023F3B4 /* AppDelegate.swift */,
+				8DD31FCF1D8F10D70023F3B4 /* Main.storyboard */,
+				8DD31FD21D8F10D70023F3B4 /* Assets.xcassets */,
+				8DD31FD41D8F10D70023F3B4 /* LaunchScreen.storyboard */,
+				8DD31FD71D8F10D70023F3B4 /* Info.plist */,
+				8DD31FCD1D8F10D70023F3B4 /* StartPageViewController.swift */,
+				8DD31FF91D8F27CC0023F3B4 /* Biologist1ViewController.swift */,
+				8DD31FFB1D8F2A760023F3B4 /* Biologist2ViewController.swift */,
+				8DD31FFD1D8F2BFE0023F3B4 /* Biologist3ViewController.swift */,
+				8DD31FFF1D8F2C210023F3B4 /* Biologist4ViewController.swift */,
+				8DD320011D8F75260023F3B4 /* Biologist5ViewController.swift */,
+				8DD320031D8F7C500023F3B4 /* Biologist6ViewController.swift */,
+				8DD320051D8F7C690023F3B4 /* Biologist7ViewController.swift */,
+				8DAAF1A71E19CEF0004CE957 /* Biologist8ViewController.swift */,
+				8DD3200B1D90F0D40023F3B4 /* Botanist1ViewController.swift */,
+				8DD3200D1D90F10E0023F3B4 /* Botanist2ViewController.swift */,
+				8DD3200F1D90F13F0023F3B4 /* Botanist3ViewController.swift */,
+				8DD320111D90F1590023F3B4 /* Botanist4ViewController.swift */,
+				8D4385401D9121A100410A75 /* Botanist5ViewController.swift */,
+				8D4385421D9121DE00410A75 /* Botanist6ViewController.swift */,
+				8D4385441D9121F200410A75 /* Botanist7ViewController.swift */,
+				8DAAF1A91E2ED99D004CE957 /* Botanist8ViewController.swift */,
+				8D43854A1DB4341C00410A75 /* Hydrologist1ViewController.swift */,
+				8D43854C1DB4343200410A75 /* Hydrologist2ViewController.swift */,
+				8D43854E1DB4344400410A75 /* Hydrologist3ViewController.swift */,
+				8D4385501DB4344E00410A75 /* Hydrologist4ViewController.swift */,
+				8D4385521DB4345A00410A75 /* Hydrologist5ViewController.swift */,
+				8D4385541DB4346B00410A75 /* Hydrologist6ViewController.swift */,
+				8D4385561DB4347700410A75 /* Hydrologist7ViewController.swift */,
+				8D4385661DB453E100410A75 /* Hydrologist8ViewController.swift */,
+				8D4385681DB47FC300410A75 /* Hydrologist9ViewController.swift */,
+				8DAAF1AB1E2EE12A004CE957 /* Hydrologist10ViewController.swift */,
+				8D4385581DB434BE00410A75 /* Ornithologist1ViewController.swift */,
+				8D43855A1DB434D200410A75 /* Ornithologist2ViewController.swift */,
+				8D43855C1DB434E800410A75 /* Ornithologist3ViewController.swift */,
+				8D43855E1DB434F200410A75 /* Ornithologist4ViewController.swift */,
+				8D4385601DB434FE00410A75 /* Ornithologist5ViewController.swift */,
+				8D4385621DB4350A00410A75 /* Ornithologist6ViewController.swift */,
+				8D4385641DB4351700410A75 /* Ornithologist7ViewController.swift */,
+				8DD74BB91DB4AB190045336B /* Ornithologist8ViewController.swift */,
+				8DAAF1AD1E2EE510004CE957 /* Ornithologist9ViewController.swift */,
+				8DAAF1AF1E2EF6C0004CE957 /* Images.xcassets */,
+			);
+			path = APWDiscovery;
+			sourceTree = "<group>";
+		};
+		8DD31FDF1D8F10D80023F3B4 /* APWDiscoveryTests */ = {
+			isa = PBXGroup;
+			children = (
+				8DD31FE01D8F10D80023F3B4 /* APWDiscoveryTests.swift */,
+				8DD31FE21D8F10D80023F3B4 /* Info.plist */,
+			);
+			path = APWDiscoveryTests;
+			sourceTree = "<group>";
+		};
+		8DD31FEA1D8F10D80023F3B4 /* APWDiscoveryUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8DD31FEB1D8F10D80023F3B4 /* APWDiscoveryUITests.swift */,
+				8DD31FED1D8F10D80023F3B4 /* Info.plist */,
+			);
+			path = APWDiscoveryUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8DD31FC71D8F10D30023F3B4 /* APWDiscovery */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8DD31FF01D8F10D80023F3B4 /* Build configuration list for PBXNativeTarget "APWDiscovery" */;
+			buildPhases = (
+				8DD31FC41D8F10D30023F3B4 /* Sources */,
+				8DD31FC51D8F10D30023F3B4 /* Frameworks */,
+				8DD31FC61D8F10D30023F3B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = APWDiscovery;
+			productName = APWDiscovery;
+			productReference = 8DD31FC81D8F10D30023F3B4 /* APWDiscovery.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8DD31FDB1D8F10D80023F3B4 /* APWDiscoveryTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8DD31FF31D8F10D80023F3B4 /* Build configuration list for PBXNativeTarget "APWDiscoveryTests" */;
+			buildPhases = (
+				8DD31FD81D8F10D80023F3B4 /* Sources */,
+				8DD31FD91D8F10D80023F3B4 /* Frameworks */,
+				8DD31FDA1D8F10D80023F3B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8DD31FDE1D8F10D80023F3B4 /* PBXTargetDependency */,
+			);
+			name = APWDiscoveryTests;
+			productName = APWDiscoveryTests;
+			productReference = 8DD31FDC1D8F10D80023F3B4 /* APWDiscoveryTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8DD31FE61D8F10D80023F3B4 /* APWDiscoveryUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8DD31FF61D8F10D80023F3B4 /* Build configuration list for PBXNativeTarget "APWDiscoveryUITests" */;
+			buildPhases = (
+				8DD31FE31D8F10D80023F3B4 /* Sources */,
+				8DD31FE41D8F10D80023F3B4 /* Frameworks */,
+				8DD31FE51D8F10D80023F3B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8DD31FE91D8F10D80023F3B4 /* PBXTargetDependency */,
+			);
+			name = APWDiscoveryUITests;
+			productName = APWDiscoveryUITests;
+			productReference = 8DD31FE71D8F10D80023F3B4 /* APWDiscoveryUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8DD31FC01D8F10D30023F3B4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Patrick Wilkening";
+				TargetAttributes = {
+					8DD31FC71D8F10D30023F3B4 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 33AV9322Z6;
+						LastSwiftMigration = 0820;
+					};
+					8DD31FDB1D8F10D80023F3B4 = {
+						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0820;
+						TestTargetID = 8DD31FC71D8F10D30023F3B4;
+					};
+					8DD31FE61D8F10D80023F3B4 = {
+						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0820;
+						TestTargetID = 8DD31FC71D8F10D30023F3B4;
+					};
+				};
+			};
+			buildConfigurationList = 8DD31FC31D8F10D30023F3B4 /* Build configuration list for PBXProject "APWDiscovery" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8DD31FBF1D8F10D30023F3B4;
+			productRefGroup = 8DD31FC91D8F10D30023F3B4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD31FC71D8F10D30023F3B4 /* APWDiscovery */,
+				8DD31FDB1D8F10D80023F3B4 /* APWDiscoveryTests */,
+				8DD31FE61D8F10D80023F3B4 /* APWDiscoveryUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8DD31FC61D8F10D30023F3B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD31FD61D8F10D70023F3B4 /* LaunchScreen.storyboard in Resources */,
+				8DAAF1B01E2EF6C0004CE957 /* Images.xcassets in Resources */,
+				8DD31FD31D8F10D70023F3B4 /* Assets.xcassets in Resources */,
+				8DD31FD11D8F10D70023F3B4 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD31FDA1D8F10D80023F3B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD31FE51D8F10D80023F3B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8DD31FC41D8F10D30023F3B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DAAF1AC1E2EE12A004CE957 /* Hydrologist10ViewController.swift in Sources */,
+				8DAAF1A81E19CEF0004CE957 /* Biologist8ViewController.swift in Sources */,
+				8D4385511DB4344E00410A75 /* Hydrologist4ViewController.swift in Sources */,
+				8DD74BBA1DB4AB190045336B /* Ornithologist8ViewController.swift in Sources */,
+				8DAAF1AE1E2EE510004CE957 /* Ornithologist9ViewController.swift in Sources */,
+				8D43855F1DB434F200410A75 /* Ornithologist4ViewController.swift in Sources */,
+				8D4385611DB434FE00410A75 /* Ornithologist5ViewController.swift in Sources */,
+				8DD31FCE1D8F10D70023F3B4 /* StartPageViewController.swift in Sources */,
+				8DAAF1AA1E2ED99D004CE957 /* Botanist8ViewController.swift in Sources */,
+				8D4385591DB434BE00410A75 /* Ornithologist1ViewController.swift in Sources */,
+				8DD320021D8F75260023F3B4 /* Biologist5ViewController.swift in Sources */,
+				8D43854D1DB4343200410A75 /* Hydrologist2ViewController.swift in Sources */,
+				8D4385451D9121F200410A75 /* Botanist7ViewController.swift in Sources */,
+				8D4385531DB4345A00410A75 /* Hydrologist5ViewController.swift in Sources */,
+				8DD3200C1D90F0D40023F3B4 /* Botanist1ViewController.swift in Sources */,
+				8D43855D1DB434E800410A75 /* Ornithologist3ViewController.swift in Sources */,
+				8DD320061D8F7C690023F3B4 /* Biologist7ViewController.swift in Sources */,
+				8DD320041D8F7C500023F3B4 /* Biologist6ViewController.swift in Sources */,
+				8D4385431D9121DE00410A75 /* Botanist6ViewController.swift in Sources */,
+				8DD320121D90F1590023F3B4 /* Botanist4ViewController.swift in Sources */,
+				8D4385631DB4350A00410A75 /* Ornithologist6ViewController.swift in Sources */,
+				8D43854F1DB4344400410A75 /* Hydrologist3ViewController.swift in Sources */,
+				8D4385571DB4347700410A75 /* Hydrologist7ViewController.swift in Sources */,
+				8D43855B1DB434D200410A75 /* Ornithologist2ViewController.swift in Sources */,
+				8DD31FFE1D8F2BFE0023F3B4 /* Biologist3ViewController.swift in Sources */,
+				8D4385671DB453E100410A75 /* Hydrologist8ViewController.swift in Sources */,
+				8D43854B1DB4341C00410A75 /* Hydrologist1ViewController.swift in Sources */,
+				8D4385691DB47FC300410A75 /* Hydrologist9ViewController.swift in Sources */,
+				8DD320101D90F13F0023F3B4 /* Botanist3ViewController.swift in Sources */,
+				8D4385411D9121A100410A75 /* Botanist5ViewController.swift in Sources */,
+				8DD320001D8F2C210023F3B4 /* Biologist4ViewController.swift in Sources */,
+				8DD31FFA1D8F27CC0023F3B4 /* Biologist1ViewController.swift in Sources */,
+				8DD31FFC1D8F2A760023F3B4 /* Biologist2ViewController.swift in Sources */,
+				8DD3200E1D90F10E0023F3B4 /* Botanist2ViewController.swift in Sources */,
+				8D4385551DB4346B00410A75 /* Hydrologist6ViewController.swift in Sources */,
+				8D4385651DB4351700410A75 /* Ornithologist7ViewController.swift in Sources */,
+				8DD31FCC1D8F10D70023F3B4 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD31FD81D8F10D80023F3B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD31FE11D8F10D80023F3B4 /* APWDiscoveryTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DD31FE31D8F10D80023F3B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD31FEC1D8F10D80023F3B4 /* APWDiscoveryUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8DD31FDE1D8F10D80023F3B4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8DD31FC71D8F10D30023F3B4 /* APWDiscovery */;
+			targetProxy = 8DD31FDD1D8F10D80023F3B4 /* PBXContainerItemProxy */;
+		};
+		8DD31FE91D8F10D80023F3B4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8DD31FC71D8F10D30023F3B4 /* APWDiscovery */;
+			targetProxy = 8DD31FE81D8F10D80023F3B4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8DD31FCF1D8F10D70023F3B4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8DD31FD01D8F10D70023F3B4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8DD31FD41D8F10D70023F3B4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8DD31FD51D8F10D70023F3B4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8DD31FEE1D8F10D80023F3B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		8DD31FEF1D8F10D80023F3B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8DD31FF11D8F10D80023F3B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = APWDiscovery/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.arizona.arizonawet.APWDiscovery;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		8DD31FF21D8F10D80023F3B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = APWDiscovery/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.arizona.arizonawet.APWDiscovery;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		8DD31FF41D8F10D80023F3B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = APWDiscoveryTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = APW.APWDiscoveryTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/APWDiscovery.app/APWDiscovery";
+			};
+			name = Debug;
+		};
+		8DD31FF51D8F10D80023F3B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = APWDiscoveryTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = APW.APWDiscoveryTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/APWDiscovery.app/APWDiscovery";
+			};
+			name = Release;
+		};
+		8DD31FF71D8F10D80023F3B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = APWDiscoveryUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = APW.APWDiscoveryUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = APWDiscovery;
+			};
+			name = Debug;
+		};
+		8DD31FF81D8F10D80023F3B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = APWDiscoveryUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = APW.APWDiscoveryUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = APWDiscovery;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8DD31FC31D8F10D30023F3B4 /* Build configuration list for PBXProject "APWDiscovery" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8DD31FEE1D8F10D80023F3B4 /* Debug */,
+				8DD31FEF1D8F10D80023F3B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8DD31FF01D8F10D80023F3B4 /* Build configuration list for PBXNativeTarget "APWDiscovery" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8DD31FF11D8F10D80023F3B4 /* Debug */,
+				8DD31FF21D8F10D80023F3B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8DD31FF31D8F10D80023F3B4 /* Build configuration list for PBXNativeTarget "APWDiscoveryTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8DD31FF41D8F10D80023F3B4 /* Debug */,
+				8DD31FF51D8F10D80023F3B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8DD31FF61D8F10D80023F3B4 /* Build configuration list for PBXNativeTarget "APWDiscoveryUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8DD31FF71D8F10D80023F3B4 /* Debug */,
+				8DD31FF81D8F10D80023F3B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8DD31FC01D8F10D30023F3B4 /* Project object */;
+}
